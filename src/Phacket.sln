@@ -7,6 +7,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution-files", ".solution-files", "{ECD7F8BA-14F6-419E-B9C6-AA08405DF35C}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		.dockerignore = .dockerignore
+		Dockerfile = Dockerfile
 	EndProjectSection
 EndProject
 Global
